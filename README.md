@@ -1,28 +1,28 @@
-# 🛡️ AI Security Summit 2025
+#  AI Security Summit 2025
 
 Welcome to the official repository for the **AI Security Summit 2025**, where cybersecurity leaders, machine learning engineers, and AI professionals come together to shape the secure future of artificial intelligence.
 
 ---
 
-## 👋 Welcome & Why AI Security Will Change Cyber Security
+##  Welcome & Why AI Security Will Change Cyber Security
 
 Organisations are adopting AI at speed — but **security is being left behind**.
 
 Traditional cyber security methods are not designed to address the **unique threats posed by AI**. From model manipulation to adversarial prompts, the risks are growing — and so is the divide between cyber professionals and AI developers.
 
 ### Why This Matters:
-- 🚨 Traditional cyber security falls short when faced with AI-specific attack vectors such as model inversion, data poisoning, and prompt injection.
-- 🔐 The gap between security professionals and ML engineers is **widening**.
-- ⚠️ AI is often deployed without a **secure-by-design approach**, exposing businesses to significant risk.
-- 📈 The rapid pace of AI adoption demands a **new security mindset** and **specialised tools**.
+-  Traditional cyber security falls short when faced with AI-specific attack vectors such as model inversion, data poisoning, and prompt injection.
+-  The gap between security professionals and ML engineers is **widening**.
+-  AI is often deployed without a **secure-by-design approach**, exposing businesses to significant risk.
+-  The rapid pace of AI adoption demands a **new security mindset** and **specialised tools**.
 
 ---
 
-## 📅 Agenda Overview
+##  Agenda Overview
 
 Our summit is designed to give attendees a **comprehensive view of AI security**, from business adoption to hands-on technical demos.
 
-### 🌐 Topics Covered:
+###  Topics Covered:
 
 - **AI Lifecycle / AI in the Business**  
   Understand where AI fits into modern organisations and where security must be embedded.
@@ -56,17 +56,17 @@ Our summit is designed to give attendees a **comprehensive view of AI security**
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 This repository may include:
-- 🔐 Demo scripts and notebooks
-- 📊 Presentation slides
-- 📁 Resources, links, and templates
-- 🛠️ Tools for testing AI vulnerabilities
+- Demo scripts and notebooks
+- Presentation slides
+- Resources, links, and templates
+- Tools for testing AI vulnerabilities
 
 ---
 
-## 🙌 Get Involved
+## Get Involved
 
 - **Follow the discussions**: Engage in GitHub Issues or our summit forum.
 - **Try the demos**: Clone the repo and test drive real AI security scenarios.
@@ -74,7 +74,7 @@ This repository may include:
 
 ---
 
-## 📣 Stay Updated
+## Stay Updated
 
 🔗 https://www.devsecai.io/ https://www.aisecuritysummit.io/  
 🐦 https://www.linkedin.com/company/devsecai/posts/?feedView=all  
