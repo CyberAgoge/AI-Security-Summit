@@ -16,7 +16,7 @@ labels = ["Spam", "Spam", "Ham", "Ham"]
 vectorizer = CountVectorizer()
 X_train = vectorizer.fit_transform(texts)
 
-# Step 4: Train the Naive Bayes Model
+# Step 4: Train the Model
 model = MultinomialNB()
 model.fit(X_train, labels)
 
